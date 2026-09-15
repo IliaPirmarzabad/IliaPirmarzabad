@@ -269,24 +269,26 @@ An ambitious platform combining an AI assistant with a management dashboard to s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IliaPirmarzabad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c9d1d9&rank_icon=github&include_all_commits=true" alt="Ilia's GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliaPirmarzabad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IliaPirmarzabad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c9d1d9&rank_icon=github&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliaPirmarzabad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c9d1d9&langs_count=8" height="180"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IliaPirmarzabad&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=IliaPirmarzabad&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=9ece6a&dates=c9d1d9" width="80%"/>
 
 </div>
 
 ### 🏆 GITHUB TROPHIES
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=IliaPirmarzabad&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=IliaPirmarzabad&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="95%"/>
 </div>
 
 ### 🐍 CONTRIBUTION MATRIX
+
 <div align="center">
-<p><i>Note: To enable the snake animation, set up the GitHub Action workflow for github-contribution-grid-snake.</i></p>
+  <img src="https://raw.githubusercontent.com/IliaPirmarzabad/IliaPirmarzabad/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
+
 ---
 
 # 🎻 BEYOND CODE
