@@ -1,321 +1,385 @@
-# 👋 Hi, I'm Ilia Pirmarzabad
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!--                         ILIA PIRMARZABAD                              -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=ILIA%20PIRMARZABAD&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Django%20%7C%20Backend%20%7C%20Web%20Development&descAlignY=55&descSize=18" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://iliam9103.pythonanywhere.com/fa/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/IliaPirmarzabad">
-    <img src="https://img.shields.io/badge/GitHub-IliaPirmarzabad-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=ILIA%20PIRMARZABAD&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=0:0f0c29,50:302b63,100:24243e" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Django+Developer;Backend+Developer;Python+Developer;Building+Real-World+Web+Applications;Turning+Ideas+Into+Digital+Products;Learning+AI+Engineering+%F0%9F%A4%96" />
-</p>
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=850&lines=Backend+Developer+%7C+AI+Engineer+in+Progress;Python+%E2%80%A2+Django+%E2%80%A2+APIs+%E2%80%A2+AI;Building+Real+Products%2C+Not+Just+Tutorial+Projects;Learning+Early.+Building+Big.;AI+%2B+Software+%2B+Entrepreneurship+%F0%9F%9A%80" />
 
-## 🧊 About Me
-
-> **I don't just write code — I build products.**
-
-I'm **Ilia Pirmarzabad**, a developer focused on **Python, Django and Backend Development**.
-
-I enjoy turning ideas into real-world web applications with clean architecture, useful features and a strong user experience.
-
-Currently, I'm expanding my skills toward:
-
-```text
-Web Development
-      ↓
-Backend Engineering
-      ↓
-Advanced Web Architecture
-      ↓
-AI Integration
-      ↓
-AI Engineering 🤖
-```
-
----
-
-## ⚡ What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏗️ Backend Systems
-
-* Django Applications
-* Authentication Systems
-* Admin Dashboards
-* CRUD Systems
-* Database Architecture
-* REST APIs
-* Business Logic
-
-</td>
-
-<td width="50%">
-
-### 🌐 Web Products
-
-* Modern Websites
-* Dynamic Platforms
-* Booking Systems
-* E-commerce
-* Portfolio Websites
-* Interactive Dashboards
-* API-powered Applications
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 My Development Philosophy
-
-```text
-Idea
-  ↓
-Architecture
-  ↓
-Development
-  ↓
-Testing
-  ↓
-Optimization
-  ↓
-Deployment
-  ↓
-Real Product 🚀
-```
-
-I care about:
-
-**Clean Code • Good Architecture • Performance • UX • Scalability • Real Business Value**
-
----
-
-# 🛠️ Tech Stack
-
-### 🐍 Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,fastapi"/>
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs"/>
-</p>
-
-### ⚙️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma"/>
-</p>
-
-### 🚀 Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=typescript,threejs"/>
-</p>
-
----
-
-# 💎 Featured Projects
-
-## 🚘 Luxora
-
-**Luxury Vehicle Booking & Reservation Platform**
-
-A Django-based platform designed around luxury vehicles with dynamic pages, filtering and interactive functionality.
-
-### Highlights
-
-* 🚘 Luxury vehicle catalog
-* 🔎 Advanced filtering
-* 🏷️ Brand filtering
-* 📅 Reservation functionality
-* 🖼️ Advanced gallery
-* 🧮 Interactive calculator
-* 🔐 User authentication
-* ⚙️ Django backend
-
----
-
-## 🎮 Game Vault
-
-**Game Discovery & Shopping Platform**
-
-A Django web application focused on discovering and filtering games.
-
-### Highlights
-
-* 🔎 Search
-* 🎯 Category filtering
-* 💰 Price filtering
-* 👤 Authentication
-* 🛒 Product functionality
-* 💳 Payment gateway simulation
-* 📱 Responsive interface
-
----
-
-## 🧑‍💻 Personal Portfolio
-
-A personal developer portfolio designed to showcase projects, skills and experience.
-
-**Live Portfolio**
-
-<p align="center">
-<a href="https://iliam9103.pythonanywhere.com/fa/">
-<img src="https://img.shields.io/badge/🚀%20OPEN%20PORTFOLIO-111827?style=for-the-badge"/>
-</a>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IliaPirmarzabad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliaPirmarzabad&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=IliaPirmarzabad&theme=tokyonight&hide_border=true" width="80%"/>
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/IliaPirmarzabad/IliaPirmarzabad/output/github-contribution-grid-snake.svg" width="90%"/>
-
-</p>
-
----
-
-# 🧊 3D Developer Zone
-
-<p align="center">
-
-<img src="https://github-profile-3d-contrib.vercel.app/profile-night-rainbow.svg" width="100%"/>
-
-</p>
-
-> A 3D visualization of my GitHub contribution activity.
-
----
-
-# 🚀 Currently Learning
-
-```text
-                    ┌─────────────────┐
-                    │   WEB DEVELOPMENT│
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │      DJANGO     │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │   REST APIs     │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │ ADVANCED BACKEND│
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │       AI        │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │ AI ENGINEERING 🤖│
-                    └─────────────────┘
-```
-
----
-
-# 🎯 My 2026 Focus
-
-<table>
-<tr>
-<td align="center">🐍<br><b>Python</b></td>
-<td align="center">🌐<br><b>Django</b></td>
-<td align="center">⚡<br><b>APIs</b></td>
-<td align="center">🗄️<br><b>Databases</b></td>
-<td align="center">🤖<br><b>AI</b></td>
-</tr>
-</table>
-
-My goal is simple:
-
-> **Become a developer who can take an idea from concept → architecture → code → deployment → intelligent product.**
-
----
-
-# 💼 Why Work With Me?
-
-```text
-✓ Real Project Experience
-✓ Django & Python Development
-✓ Backend-Focused Mindset
-✓ Clean & Maintainable Code
-✓ Problem-Solving Approach
-✓ Continuous Learning
-✓ AI-Assisted Development
-✓ Product-Oriented Thinking
-```
-
-I don't want to simply deliver **code**.
-
-I want to deliver something that actually **solves a problem**.
-
----
-
-# 🌐 Let's Connect
-
-<p align="center">
-
-<a href="https://iliam9103.pythonanywhere.com/fa/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-58A6FF?style=for-the-badge"/>
-</a>
+<br><br>
 
 <a href="https://github.com/IliaPirmarzabad">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-ILIA%20PIRMARZABAD-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://github.com/IliaPirmarzabad?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-0d1117?style=for-the-badge&logo=rocket&logoColor=7aa2f7"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=IliaPirmarzabad&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/IliaPirmarzabad?style=for-the-badge&label=FOLLOWERS&color=9ece6a"/>
+<img src="https://img.shields.io/github/stars/IliaPirmarzabad?style=for-the-badge&label=STARS&color=bb9af7"/>
+
+</div>
 
 ---
 
-<p align="center">
+# 🧬 ABOUT ME
 
-<img src="https://komarev.com/ghpvc/?username=IliaPirmarzabad&style=for-the-badge&color=58A6FF"/>
+<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-</p>
+## 👋 Hey, I'm Ilia
 
-<p align="center">
+I'm a **young developer from Iran** focused on **Python, Django, Backend Engineering, and Artificial Intelligence**.
 
-### ⚡ Build. Learn. Improve. Repeat.
+I started programming in **2025** and I'm continuously learning by building real projects, experimenting with modern technologies, and challenging myself to become a strong **AI Engineer**.
 
-**Ilia Pirmarzabad**
+My long-term mission is to build technology that solves **real-world problems**.
 
-</p>
+I'm especially interested in the intersection of:
+### `AI` × `Software Engineering` × `Product Building` × `Entrepreneurship`
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling"/>
-</p>
+</td>
+
+<td width="40%" valign="top">
+
+```text
+╭──────────────────────────────╮
+│       ILIA PIRMARZABAD       │
+├──────────────────────────────┤
+│                              │
+│ 🎂 Age       → 15            │
+│ 💻 Focus     → Backend       │
+│ 🐍 Core      → Python        │
+│ ⚡ Framework → Django        │
+│ 🤖 Direction → AI            │
+│ 🌍 Location  → Iran          │
+│ 🚀 Vision    → Founder       │
+│                              │
+╰──────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+# ⚡ WHAT I'M WORKING TOWARD
+
+<div align="center">
+
+```text
+🌐 WEB DEVELOPMENT ──► 🐍 PYTHON + DJANGO ──► ⚡ REST APIs + DRF
+                                                      │
+                                                      ▼
+🌍 IMPACT ◄── 🚀 PRODUCTS ◄── 🧠 AI ENG ◄── 🤖 AI APPS ◄── 🏗️ BACKEND
+```
+
+</div>
+
+---
+
+# 🛠️ TECH STACK
+
+<div align="center">
+
+### 🐍 Core Technologies
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,vscode,sqlite&perline=9"/><br><br>
+
+### ⚙️ Currently Learning
+<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,postgres,mongodb,redis,linux,docker,nginx&perline=9"/><br><br>
+
+### 🤖 Exploring Next
+<img src="https://skillicons.dev/icons?i=typescript,tensorflow,pytorch,figma,aws,tailwind&perline=6"/>
+
+</div>
+
+<br>
+
+<details>
+<summary><b>🔍 Full Technology Map (Click to expand)</b></summary>
+<br>
+
+| Category | Technologies |
+| :--- | :--- |
+| **🐍 Languages** | Python, JavaScript, HTML5, CSS3 |
+| **⚙️ Backend** | Django, Django REST Framework, FastAPI |
+| **🌐 Frontend** | HTML, CSS, JavaScript, React, Next.js |
+| **🗄️ Databases** | SQLite, PostgreSQL, MongoDB, Redis |
+| **🛠️ Tools** | Git, GitHub, VS Code, Linux, Docker |
+| **🎨 Design** | UI/UX Principles, Figma |
+| **🤖 AI / ML** | AI Concepts, LLM APIs, Machine Learning |
+| **🔌 Architecture** | REST APIs, Automation, Web Architecture |
+
+</details>
+
+---
+
+# 💎 FEATURED PROJECTS
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Game Store
+*Digital Game E-Commerce Platform*
+
+A game-store website created to practice real-world web development and implement a complete digital purchase workflow.
+
+**✨ Highlights:**
+* 🛒 Digital product storefront
+* 📄 Detailed product pages
+* 💳 Simulated payment flow
+* 🏗️ Clean backend architecture
+
+**🔧 Stack:** `Python` `Django` `HTML` `CSS` `JS`  
+**🟢 Status:** Completed
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Artistic Portfolio
+*Javad Peymarzabad*
+
+A modern artistic portfolio focused on typography, visual storytelling, and immersive interactions.
+
+**✨ Highlights:**
+* 🎭 Artistic visual identity
+* 🖼️ Dual art collections
+* ✨ Scroll interactions & Page transitions
+* 👁️ Experience-focused design
+
+**🔧 Stack:** `HTML` `CSS` `JavaScript`  
+**🟡 Status:** Final Development Stage
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🤖 AI Assistant & Management Platform
+*AI-Powered Business Management*
+
+An ambitious platform combining an AI assistant with a management dashboard to solve real business problems and automate workflows.
+
+```text
+┌─────────────────┐     ┌────────────────────┐     ┌─────────────────┐
+│  👤 Users       ├────►│ Management System  │◄────┤  📊 Dashboard   │
+└─────────────────┘     └─────────┬──────────┘     └─────────────────┘
+                                  │
+                   ┌──────────────┼──────────────┐
+                   ▼              ▼              ▼
+              📈 Analytics   ⚙️ Automation   🔌 REST API
+```
+
+**✨ Planned Features:**
+* 🧠 LLM-powered AI assistant & Business automation
+* 📊 Management dashboard with data insights
+* 🔌 Scalable REST API architecture
+
+**🔧 Stack:** `Python` `Django` `REST APIs` `AI / LLM APIs`  
+**🚧 Status:** In Development
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+# 🧭 MY LEARNING ROADMAP
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────┐
+│        🌐 WEB DEVELOPMENT            │
+│        HTML • CSS • JavaScript       │
+└──────────────────┬───────────────────┘
+                   │
+                   ▼
+┌──────────────────────────────────────┐
+│        🐍 PYTHON + DJANGO            │
+│        Backend Foundations           │
+└──────────────────┬───────────────────┘
+                   │
+                   ▼
+┌──────────────────────────────────────┐
+│        ⚡ APIs + DRF                 │
+│        REST • Auth • Architecture    │
+└──────────────────┬───────────────────┘
+                   │
+                   ▼
+┌──────────────────────────────────────┐
+│        🏗️ ADVANCED BACKEND           │
+│        PostgreSQL • Docker • Linux   │
+│        FastAPI                       │
+└──────────────────┬───────────────────┘
+                   │
+                   ▼
+┌──────────────────────────────────────┐
+│        🤖 AI APPLICATIONS            │
+│        LLMs • AI APIs • Automation   │
+└──────────────────┬───────────────────┘
+                   │
+                   ▼
+┌──────────────────────────────────────┐
+│        🧠 AI ENGINEERING             │
+│        ML • Deep Learning            │
+└──────────────────┬───────────────────┘
+                   │
+                   ▼
+┌──────────────────────────────────────┐
+│        🚀 PRODUCT + ENTREPRENEURSHIP │
+│        Build • Launch • Scale        │
+└──────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# 📅 DEVELOPMENT TIMELINE
+
+<div align="center">
+
+| Stage | 🎯 Focus | 💡 Goal |
+| :---: | :--- | :--- |
+| **🟢 NOW → 6 MONTHS** | Backend • Django • APIs • AI Basics | Build real projects & strong portfolio |
+| **🔵 6 → 18 MONTHS** | Advanced Backend • AI Integration | Build international-level projects |
+| **🟣 18+ MONTHS** | AI Engineering • Product • Business | Launch valuable technology products |
+
+</div>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IliaPirmarzabad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c9d1d9&rank_icon=github&include_all_commits=true" alt="Ilia's GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliaPirmarzabad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IliaPirmarzabad&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" width="80%"/>
+
+</div>
+
+### 🏆 GITHUB TROPHIES
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=IliaPirmarzabad&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="95%"/>
+</div>
+
+### 🐍 CONTRIBUTION MATRIX
+<div align="center">
+<p><i>Note: To enable the snake animation, set up the GitHub Action workflow for github-contribution-grid-snake.</i></p>
+</div>
+---
+
+# 🎻 BEYOND CODE
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎻 VIOLIN
+Music & creativity
+
+</td>
+<td align="center" width="33%">
+
+### 🌎 ENGLISH
+Preparing for global opportunities
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+# 🎯 MY VISION
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🐍 PYTHON
+Deep technical foundations
+
+</td>
+<td align="center" width="25%">
+
+### ⚡ BACKEND
+Production-grade systems
+
+</td>
+<td align="center" width="25%">
+
+### 🤖 AI
+Intelligent products
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 FOUNDER
+Build something meaningful
+
+</td>
+</tr>
+</table>
+
+<br>
+
+> **AI + SOFTWARE ENGINEERING + PRODUCT BUILDING + ENTREPRENEURSHIP = REAL-WORLD IMPACT**  
+> *I'm starting early — and I'm building for the long term.*
+
+</div>
+
+---
+
+# 💭 DEVELOPER MINDSET
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+
+<br><br>
+
+> *"The future belongs to those who prepare for it today."*
+
+</div>
+
+---
+
+# 🔥 CURRENT MISSION
+
+<div align="center">
+
+```text
+LEARN ──► BUILD ──► BREAK ──► DEBUG ──► IMPROVE ──► SHIP ──► REPEAT
+```
+
+**🚀 BUILD. LEARN. INNOVATE. REPEAT.**  
+**Ilia Pirmarzabad** | *Python • Django • Backend • AI • Entrepreneurship*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:24243e,50:302b63,100:0f0c29" width="100%"/>
+
+</div>
