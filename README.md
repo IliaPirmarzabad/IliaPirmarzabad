@@ -361,11 +361,13 @@ Build something meaningful
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
 
-<br><br>
+<br>
 
-> *"The future belongs to those who prepare for it today."*
+> *"Talk is cheap. Show me the code."*
+> — **Linus Torvalds**
 
 </div>
+
 
 ---
 
