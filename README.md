@@ -291,18 +291,13 @@ An ambitious platform combining an AI assistant with a management dashboard to s
 
 ---
 
-# 🎻 BEYOND CODE
+# BEYOND CODE
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 🎻 VIOLIN
-Music & creativity
-
-</td>
-<td align="center" width="33%">
 
 ### 🌎 ENGLISH
 Preparing for global opportunities
